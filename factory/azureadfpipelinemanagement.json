@@ -1,0 +1,9 @@
+{
+	"name": "azureadfpipelinemanagement",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9831d4f1-7f2a-424a-a7f3-f69f4791eeca",
+		"tenantId": "2db0e13c-89f2-4a67-88ce-504c6fb70607"
+	}
+}
